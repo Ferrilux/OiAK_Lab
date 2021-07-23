@@ -1,0 +1,42 @@
+-------------------------------------------------
+Typ obliczen: SIMD
+Liczba liczb: 2048
+Operacja '+': 0.0012731
+Operacja '-': 0.0010043
+Operacja '*': 0.0008747
+Operacja '/': 0.0010413
+
+Typ obliczen: SISD
+Liczba liczb: 2048
+Operacja '+': 0.0010104
+Operacja '-': 0.0009868
+Operacja '*': 0.0010241
+Operacja '/': 0.0010578
+-------------------------------------------------
+Typ obliczen: SIMD
+Liczba liczb: 4096
+Operacja '+': 0.0019612
+Operacja '-': 0.0019075
+Operacja '*': 0.0019687
+Operacja '/': 0.0020251
+
+Typ obliczen: SISD
+Liczba liczb: 4096
+Operacja '+': 0.0021391
+Operacja '-': 0.0020732
+Operacja '*': 0.0019282
+Operacja '/': 0.0021972
+-------------------------------------------------
+Typ obliczen: SIMD
+Liczba liczb: 8192
+Operacja '+': 0.0040724
+Operacja '-': 0.0039069
+Operacja '*': 0.0040023
+Operacja '/': 0.003968
+
+Typ obliczen: SISD
+Liczba liczb: 8192
+Operacja '+': 0.0039128
+Operacja '-': 0.0039579
+Operacja '*': 0.0039178
+Operacja '/': 0.0043452
